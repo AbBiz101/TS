@@ -17,7 +17,5 @@
     "url": "https://github.com/AbBiz101/TS/issues"
   },
   "homepage": "https://github.com/AbBiz101/TS#readme",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
+  "devDependencies": {}
 }
